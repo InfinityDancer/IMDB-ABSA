@@ -1,0 +1,21 @@
+# core libraries
+numpy
+pandas
+tqdm
+scikit-learn
+
+# DL
+tensorflow
+
+# NLP and Text Preprocessing
+nltk
+spacy
+
+# visualization
+matplotlib
+seaborn
+wordcloud
+
+# ABSA tools using transformers
+transformers
+torch
